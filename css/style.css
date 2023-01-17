@@ -1,0 +1,7 @@
+thead {
+    background: rgb(169, 78, 78);
+}
+
+tr:hover {
+    background-color: grey;
+}
